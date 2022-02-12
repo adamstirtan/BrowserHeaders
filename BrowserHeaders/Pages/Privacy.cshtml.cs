@@ -13,7 +13,6 @@ namespace BrowserHeaders.Pages
         }
 
         public void OnGet()
-        {
-        }
+        { }
     }
 }
